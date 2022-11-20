@@ -13,6 +13,7 @@ import FAQ from "./scenes/faq";
 import Bar from "./scenes/bar";
 import Pie from "./scenes/pie";
 import Geography from "./scenes/geography";
+import Sidebar2 from "./scenes/Sidebar/Sidebar2";
 
 
 const App = () => {

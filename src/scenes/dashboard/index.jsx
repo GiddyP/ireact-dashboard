@@ -10,9 +10,7 @@ import Header from "../../components/Header";
 import GeographyChart from "../../components/GeographyChart";
 import BarChart from "../../components/BarChart";
 import StatBox from "../../components/StatBox";
-import ProgressCircle from "../../components/ProgressCircle";
 import PieChart from "../../components/PieChart";
-import { cardsData } from "../../data/mockData";
 import AccountBalanceOutlinedIcon from '@mui/icons-material/AccountBalanceOutlined';
 
 const Dashboard = () => {
