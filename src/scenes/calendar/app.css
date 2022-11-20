@@ -1,0 +1,27 @@
+
+@media screen and (max-width: 767px) {
+    .fc-toolbar-title{ 
+        font-size: 14px !important;
+    }
+    .fc-button-group{
+        font-size: 7px !important;
+    }
+    .fc-today-button {
+        display: none !important;
+    }
+
+    .fc-scrollgrid{
+        height: 45vh !important;
+    }
+
+    .fc-view-harness{
+        margin: 0 !important;
+    }
+
+    .fc.fc-media-screen.fc-direction-ltr.fc-theme-standard{
+        height: 55vh !important;
+    }
+    .calender__container{
+
+    }
+}
