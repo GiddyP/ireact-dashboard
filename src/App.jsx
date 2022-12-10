@@ -32,7 +32,7 @@ const App = () => {
             <Topbar />
             <Routes>
               {/* This is the main route  */}
-              <Route path="/" element={<Dashboard />} />
+              <Route path="/ireact-dashboard/" element={<Dashboard />} />
               {/* These are the other routes accessible */}
               <Route path="/team" element={<Team />} />
               <Route path="/contacts" element={<Contacts />} />

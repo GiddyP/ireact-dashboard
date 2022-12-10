@@ -128,7 +128,7 @@ const Topbar = () => {
         </div>
 
         <ul className="nav__list">
-          <li className="nav__item" onClick={(e) => setOpen(false)} ><Link to="/" className="nav__link">Home</Link></li>
+          <li className="nav__item" onClick={(e) => setOpen(false)} ><Link to="/ireact-dashboard/" className="nav__link">Home</Link></li>
           {/* <li class="nav__item" onClick={(e) => setOpen(false)} ><Link to="/team" class="nav__link">Team</Link></li> */}
           {/* <li className="nav__item" onClick={(e) => setOpen(false)} ><Link to="/contacts" className="nav__link">Contacts</Link></li> */}
           <li className="nav__item" onClick={(e) => setOpen(false)} ><Link to="/form" className="nav__link">Profile Form</Link></li>

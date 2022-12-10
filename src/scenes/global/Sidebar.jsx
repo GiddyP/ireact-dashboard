@@ -137,7 +137,7 @@ const Sidebar = () => {
 
             <Item
               title="Dashboard"
-              to="/"
+              to="/ireact-dashboard/"
               icon={<HouseOutlinedIcon />}
               selected={selected}
               setSelected={setSelected}
